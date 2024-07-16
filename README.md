@@ -1,2 +1,3 @@
 # Pbj
-First repo
+This is my first
+Author - pbj
